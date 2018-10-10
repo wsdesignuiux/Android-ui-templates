@@ -8,5 +8,5 @@
 
 Name | Demo
 --- | ---
-[kit1](http://wsdesign.in/home/detail/144) | <img src="images/fasion.png" width="100%"> <img src="images/feedback.png" width="49%">
-[kit2](http://wsdesign.in/home/detail/144) | <img src="images/fasion.png" width="100%"> <img src="images/feedback.png" width="49%">
+[kit1](http://wsdesign.in/home/detail/144) | <img src="images/walk_through_1.png" width="49%"> <img src="images/walk_through_1.png" width="49%">
+
