@@ -1,4 +1,6 @@
 # Free-Android-ui-templates
+[![Foo](https://github.com/wsdesignuiux/Android-ui-templates/blob/master/images/banner.png)](http://wsdesign.in)
+
 ## Index
  a| b | c
 --- | --- | ---
@@ -32,7 +34,7 @@
 
 Name | Demo
 --- | ---
-[E-Comm UI KIT](http://wsdesign.in/home/detail/146) | <img src="images/ecommerce_cart_ui_kit.jpg">
+[E-Comm UI KIT](http://wsdesign.in/home/detail/146) | <img src="http://wsdesign.in/img/product/Artboard%20%E2%80%93%2015%20(1).png">
 [Online Course UI KIT](http://wsdesign.in/home/detail/144) | <img src="images/online _course_ui_kit.png">
 [Cab Booking UI KIT](http://wsdesign.in/home/detail/142) | <img src="images/cab_booking_ui_kit.png">
 [CryptoStar UI KIT](http://wsdesign.in/home/detail/141) | <img src="images/cryptostar_ui_kit.png">
